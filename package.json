@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-ghost-record",
+  "version": "0.0.1",
+  "description": "Add context to ghost record brief display",
+  "main": "index.js",
+  "author": "Scot Colford",
+  "license": "GPL-3.0"
+}
